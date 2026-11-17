@@ -46,3 +46,14 @@ Screenshots of the EC2 instance, SSH connection, and deployed webpage are includ
 ## Note
 
 This is an educational deployment using HTTP. A production website should use HTTPS and appropriate security controls.
+
+## Deployment Screenshots
+
+### 1. EC2 Instance Running
+![EC2 Running](screenshots/ec2-running.png)
+
+### 2. Successful SSH Connection
+![SSH Connection](screenshots/ssh-connected.png)
+
+### 3. Website Successfully Deployed
+![Deployed Website](screenshots/website-deployed.png)
